@@ -1,7 +1,7 @@
 package filehasher
 
 import (
-	"verifier/threadmgmt"
+	"github.com/NHAS/verifier/threadmgmt"
 	"crypto/sha256"
 	"encoding/hex"
 	"encoding/json"

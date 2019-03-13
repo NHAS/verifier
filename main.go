@@ -2,8 +2,8 @@
 package main
 
 import (
-	"verifier/filehasher"
-	"verifier/verify"
+	"github.com/NHAS/verifier/filehasher"
+	"github.com/NHAS/verifier/verify"
 
 	"flag"
 	"fmt"
