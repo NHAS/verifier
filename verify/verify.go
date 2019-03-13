@@ -1,7 +1,7 @@
 package verify
 
 import (
-	"Verifier/threadmgmt"
+	"verifier/threadmgmt"
 	"crypto/sha256"
 	"encoding/hex"
 	"encoding/json"

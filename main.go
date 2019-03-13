@@ -2,8 +2,8 @@
 package main
 
 import (
-	"Verifier/filehasher"
-	"Verifier/verify"
+	"verifier/filehasher"
+	"verifier/verify"
 
 	"flag"
 	"fmt"
